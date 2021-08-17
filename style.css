@@ -73,9 +73,7 @@ p #author{
           .box{
             width: 100%;
             height: 100%;
-            margin-top: 100px;
-            border-top-left-radius: 50px;
-            border-top-right-radius: 50px;
+            border-radius : none;  
         }
         
     }
